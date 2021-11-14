@@ -1,0 +1,35 @@
+.verde{
+    background-color: green;
+    height: 150px;
+    margin: 5px;
+    border: black 2px solid;
+}
+.rojo{
+    background-color: red;
+    border: black 2px solid;
+
+}
+.morado{
+    background-color: purple;
+    height: 150px;
+    margin: 5px;
+    border: black 2px solid;
+
+}
+.salmon{
+    background-color: rosybrown;
+    height: 150px;
+    border: black 2px solid;
+    margin: 5px;
+}
+.azul{
+    background-color: blue;
+    height: 150px;
+    border: black 2px solid;
+    margin: 5px;
+}
+.margen{
+    background-color: white;
+    border: black 2px solid;
+    height: 100%;
+}
